@@ -30,9 +30,7 @@ You will need to send messages to all 25 RAIDA in parallel.
 
 ## RAIDA Requirements
 
-
 1. 	Have Data Supremacy. Cannot be brought down by hackers, governments or even its creators.
-
 2.	100% Privacy. No user accounts, passwords, logins, or transactions tracked.
 3.	Handle the entire worlds traffic. (Similar to the DNS).
 4.	Transaction Speeds: Less than 2 seconds for 400 notes.
@@ -40,7 +38,7 @@ You will need to send messages to all 25 RAIDA in parallel.
 6.	Use less than 100 kilowatts of electricity. (Bitcoin uses 45 Terawatts).
 7.	Self-funded. No Fees.
 8.	Cannot be stolen.
-9.	Fixed supply - No counterfeits or inflation.
+9.	Fixed supply -No counterfeits or inflation.
 10.	Quantum Safe.
 11.     Be completed by March of 2022.
 
@@ -601,7 +599,7 @@ Example response (the second coin failed, the third one has an error in AN):
     }
 ]
 ```
-Response if too many coins attached (over 4000)
+Response if too many coins are attached (over 4000)
 ```json
 [
     {
