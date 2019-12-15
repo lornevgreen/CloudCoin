@@ -1240,4 +1240,4 @@ RESPONSE IF THE TYPE WAS INVALID
   "status":"dud",The request requires return of either 250, 100, 25 or 5."
   "time":"2016-44-19 7:44:PM"
 }
-```
+```README.md
