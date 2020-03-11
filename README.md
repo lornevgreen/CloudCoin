@@ -1,5 +1,5 @@
 # CloudCoin
-This repository provides standards and APIs for CloudCoin, RAIDA and Skywallet
+This repository provides standards and APIs for CloudCoin, RAIDA and Sky Wallet
 
 CloudCoin is a digital currency based on the Theory of Perfect Money. Like Crypto currencies it has Data Supremacy meaning that it cannot be hacked, brought down by governments or even corupted by its own creators. CloudCoin gets its Data Supremacy in a way simular to how the DNS System gets its data supremacy. CoudCoins have several unique properties including: 
 
